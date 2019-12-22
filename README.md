@@ -12,4 +12,11 @@ Output: Your BMI and perfect BMI Value for your age.
 
 - Basic Dart concepts
 - Basic Flutter concepts
-- UI design with Flutter
+    - Images
+    - Radio Buttons
+    - Card
+    - Form
+    - TextFormFields
+    - Buttons
+    - Text
+- UI/UX design with Flutter
