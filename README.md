@@ -23,4 +23,4 @@ Output: Your BMI and perfect BMI Value for your age.
 
 ## Screens
 
-img src="https://github.com/Marcelxy/bmi_calculator/blob/master/assets/images/Screenshots/bmiCalculator.png" width="280" height="480">
+<img src="https://github.com/Marcelxy/bmi_calculator/blob/master/assets/images/Screenshots/bmiCalculator.png" width="280" height="480">
