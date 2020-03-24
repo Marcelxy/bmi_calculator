@@ -20,3 +20,7 @@ Output: Your BMI and perfect BMI Value for your age.
     - Buttons
     - Text
 - UI/UX Design with Flutter.
+
+## Screens
+
+img src="https://github.com/Marcelxy/bmi_calculator/blob/master/assets/images/Screenshots/bmiCalculator.png" width="280" height="480">
