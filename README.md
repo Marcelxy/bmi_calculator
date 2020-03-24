@@ -8,6 +8,11 @@ Metric and english BMI calculation.
 
 Output: Your BMI and perfect BMI Value for your age.
 
+## Functionality
+
+- Users can calculate his/her BMI Value (in metric and english).
+- Users can see his/her perfect BMI Value.
+
 ## What I learned / improved in this project
 
 - Dart concepts.
